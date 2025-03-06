@@ -160,6 +160,7 @@ const App = () => {
                       </Col>
                     </Row>
                   </div>
+                  <FloatingFAB />
                 </div>
               }
             />
